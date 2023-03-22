@@ -42,3 +42,4 @@ def zadacha4():
 zadacha2()
 zadacha3()
 zadacha4()
+"nnnn"
